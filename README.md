@@ -43,7 +43,7 @@ Use the component on a team page to showcase the names and roles of your team me
 ### Links
 
 - Solution URL: (https://github.com/aradradev/my-stats-preview-card-app.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://my-stats-preview-card-app-aradradev.vercel.app/)
 
 
 ### Built with
